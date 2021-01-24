@@ -17,3 +17,6 @@ dependancies <br/>
 -tqdm: 4.56.0 <br/>
 -matplotlib: 3.3.2 <br/>
 
+
+![](run_model.gif)
+
